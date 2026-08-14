@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emeris\\source\\repos\\CLDTutorialSession\\CLDTutorialSession.csproj": {}
+    "C:\\Users\\emeris\\Documents\\GitHub\\CLDTutorial14Aug\\CLDTutorialSession\\CLDTutorialSession.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emeris\\source\\repos\\CLDTutorialSession\\CLDTutorialSession.csproj": {
+    "C:\\Users\\emeris\\Documents\\GitHub\\CLDTutorial14Aug\\CLDTutorialSession\\CLDTutorialSession.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emeris\\source\\repos\\CLDTutorialSession\\CLDTutorialSession.csproj",
+        "projectUniqueName": "C:\\Users\\emeris\\Documents\\GitHub\\CLDTutorial14Aug\\CLDTutorialSession\\CLDTutorialSession.csproj",
         "projectName": "CLDTutorialSession",
-        "projectPath": "C:\\Users\\emeris\\source\\repos\\CLDTutorialSession\\CLDTutorialSession.csproj",
+        "projectPath": "C:\\Users\\emeris\\Documents\\GitHub\\CLDTutorial14Aug\\CLDTutorialSession\\CLDTutorialSession.csproj",
         "packagesPath": "C:\\Users\\emeris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emeris\\source\\repos\\CLDTutorialSession\\obj\\",
+        "outputPath": "C:\\Users\\emeris\\Documents\\GitHub\\CLDTutorial14Aug\\CLDTutorialSession\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
