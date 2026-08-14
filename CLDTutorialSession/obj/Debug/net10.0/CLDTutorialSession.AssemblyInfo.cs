@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLDTutorialSession")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f58043f2c972be34fec9c7ae7b4563c3535c2bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLDTutorialSession")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLDTutorialSession")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
